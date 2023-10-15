@@ -4,7 +4,7 @@
     background-image: linear-gradient(rgb(4, 95, 98), rgb(77, 113, 113));
     color:rgb(231, 231, 231);
     height: 300px;
-    width: 100%;
+    width: 50%;
         
     }
 
@@ -41,7 +41,11 @@
     font-size: larger;
 
 }
-
+.links a:hover{
+    background-color: white;
+    color: teal;
+    font-size: 40px;
+}
 .mentorspace{
     background-color: rgb(243, 243, 243);
     height: 400px;
